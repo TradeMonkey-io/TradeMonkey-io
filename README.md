@@ -2,9 +2,19 @@
   <img src="images/OpenMoji_monkey.png" width="150" />
 </p>
 
-**TradeMonkey** provides updates and overviews of the global finacial market.
-Follow us on [Telegram](https://t.me/TradeMonkey_io) and Twitter for daily investments opportunities. 
+**TradeMonkey** provides daily updates and overviews of the global financial market.
+Follow us on [Telegram](https://t.me/TradeMonkey_io) and Twitter for daily investments opportunities.
 
+*Discover* potential investment opportunities for a wide range of stocks, indices, ETFs and more.
+
+*Analyze* the current market situation in your own style.
+
+*Act* accordingly.
+
+**TradeMonkey** – *Discover* **.** *Analyze* **.** *Act.*
+
+Disclaimer:
+The content on this channel is not financial advice and for informational purposes only. Always do your own research before investing. TradeMonkey does assume liability for any financial losses that might occur. 
 
 ## Follow TradeMonkey
 
