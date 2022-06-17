@@ -14,8 +14,8 @@ Follow us on [Telegram](https://t.me/TradeMonkey_io) and Twitter for daily inves
 
 ## Follow TradeMonkey
 
-|   | | |
-|:-:|-|-|
+|   | |
+|:-:|-|
 | <img align="center" src="images/Telegram.png" height="25"/> | https://t.me/TradeMonkey_io       |
 | <img align="center" src="images/Twitter.png" height="25"/>  | coming soon                       |
 | <img align="center" src="images/E_mail.png" height="25"/>   | TradeMonkey.io@proton.me          |
