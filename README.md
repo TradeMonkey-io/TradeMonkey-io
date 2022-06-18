@@ -24,4 +24,4 @@ Follow us on [Telegram](https://t.me/TradeMonkey_io) and Twitter for daily inves
 
 
 ### Disclaimer
-The content on this channel is not financial advice and for informational purposes only. Always do your own research before investing. TradeMonkey does assume liability for any financial losses that might occur. 
+The content provided by TradeMonkey is not financial advice and for informational purposes only. Always do your own research before investing. TradeMonkey does not assume liability for any financial losses that might occur. 
