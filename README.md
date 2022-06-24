@@ -3,7 +3,7 @@
 </p>
 
 **TradeMonkey** provides daily updates and overviews of the global financial market.
-Follow us on [Telegram](https://t.me/TradeMonkey_io) and Twitter for daily investments opportunities.
+Follow us on [Telegram](https://t.me/TradeMonkey_io) and Twitter for daily investment opportunities.
 
 *Discover* potential investment opportunities for a wide range of stocks, indices, ETFs and more.\
 *Analyze* the current market situation in your own style.\
